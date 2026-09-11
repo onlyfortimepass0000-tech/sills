@@ -1,0 +1,14 @@
+{
+  "name": "sills",
+  "description": "Aryan's personal Claude Code / Cowork plugins.",
+  "owner": {
+    "name": "Aryan"
+  },
+  "plugins": [
+    {
+      "name": "scrapegraphai",
+      "source": "./",
+      "description": "Live AI-powered web scraping via the official ScrapeGraphAI MCP server."
+    }
+  ]
+}

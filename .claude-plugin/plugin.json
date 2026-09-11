@@ -1,0 +1,10 @@
+{
+  "name": "scrapegraphai",
+  "description": "Live AI-powered web scraping in chat via the official ScrapeGraphAI MCP server — scrape pages to markdown, extract structured data with a schema, run AI web search, and crawl multi-page sites.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aryan"
+  },
+  "homepage": "https://scrapegraphai.com",
+  "repository": "https://github.com/onlyfortimepass0000-tech/sills"
+}
